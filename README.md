@@ -62,8 +62,3 @@ pip install pandas numpy matplotlib seaborn
 2. Open the Jupyter Notebook in your preferred environment.
 3. Execute each cell in order to reproduce the analysis.
 
-For any questions or issues, please refer to the comments within the notebook or contact the author for assistance.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13149611/d8caaa11-cded-4269-bd24-72a1042c0d56/airbnb_2019__NYC_EDA_capstone_project_final_1-1.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13149611/256c3f96-7ea0-44e5-b71c-c31121bbeeea/banglore_home_prices_final.ipynb
